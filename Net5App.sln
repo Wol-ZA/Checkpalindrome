@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net5App", "Net5App\Net5App.csproj", "{00A1C302-C89E-465D-B377-3C49B1B51F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A1C302-C89E-465D-B377-3C49B1B51F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A1C302-C89E-465D-B377-3C49B1B51F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A1C302-C89E-465D-B377-3C49B1B51F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A1C302-C89E-465D-B377-3C49B1B51F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0842049-6516-44F9-BD1A-2EB9B7880DB3}
+	EndGlobalSection
+EndGlobal
